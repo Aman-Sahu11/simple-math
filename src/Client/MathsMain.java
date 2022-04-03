@@ -15,5 +15,7 @@ public class MathsMain {
   b=sc.nextInt();
   System.out.println("Sum of two numbers is "+op.sum(a, b));
   System.out.println("Subtraction of two numbers is "+op.subtract(a, b));
+  System.out.println("Multiplication of two numbers is "+op.multiply(a, b));
+  
  }
 }
