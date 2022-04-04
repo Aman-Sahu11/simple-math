@@ -8,6 +8,7 @@ public class MathsMain {
  {
   //Execution starts from here
   //Change from github
+  //Checking fetch command
   Scanner sc=new Scanner(System.in);
   int a=0;
   int b=0;
