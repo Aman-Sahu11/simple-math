@@ -7,6 +7,7 @@ public class MathsMain {
  public static void main(String args[])
  {
   //Execution starts from here
+  //Change from github
   Scanner sc=new Scanner(System.in);
   int a=0;
   int b=0;
